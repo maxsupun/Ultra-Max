@@ -1,0 +1,29 @@
+{
+  "name": "Ultra_Max",
+  "version": "3.0.0v",
+  "description": "Ultra Max Bot project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "main": "./UltraMax/bot.js"
+  },
+  "scripts": {
+    "start": "supervisor -s bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxsupun/UltraMax.git"
+  },
+  "keywords": [
+    "whatsapp"
+  ],
+  "author": "Supun Max",
+  "developer": "AN Tech",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/maxsupun/UltraMax/issues"
+  },
+  "homepage": "https://github.com/maxsupun/UltraMax#readme",
+  "dependencies": {
+    "UltraMax-public-1":"1.0.0",
+    "UltraMax-img": "1.0.0",
+    "UltraMax-textlogo-1.0.3": "1.0.3"
+  }
+}
