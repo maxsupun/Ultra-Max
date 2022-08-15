@@ -82,7 +82,27 @@ QR Code generator and full instructions available there.
 <div>
 	<a href="https://www.youtube.com/channel/UCLziWEeJ-VZuUnZaFUIYTOA?sub_confirmation=1">
 <img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
-</div>
+</div> <br>
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ImRishmika/Ultra-Max-String-Session-Genarator?v=1)
+> Qr File Maked by [RishBroPromax](https://github.com/RishBroPromax)
+
+<h1><b>How To Scan QR And Next Steps?</h1>
+
+>මුලින්ම qr code එක scan කරගන්න🥲. multi devices beta වැඩ කරනෝ
+
+>ඊට පස්සෙ මේ git එක fork කරගන්න. හරි. දැන් ඔයා fork කරගත්ත git එකට යන්න😌.
+
+>දැන් වට්සැප් එකේ ඔයාගෙ ලොක් අංගයට session.json කියලා file එකක් ඇවිල්ලා ඇති. ඒක තියෙන්නෙ Whatsapp > media > whatsapp documents > session.json  මෙතන.
+
+>දැන් ඔයා අර fork කරපු git එකට ආයි ගිහින් ඒ session.json එක upload කරලා commit changes දෙන්න😁.
+
+>දැන් ආයි බැක් වෙලා Edit 'setting.js' With Your Choice ගිහින් ඒව මේව වෙනස් කරගන්න පුලුවං😒😒😒
+
+>යටට ගිහින් "Then Deploy The Bot From Here "👈මෙතනින් deploy කරන්න විතරයි තියෙන්නෙ😁
+
+</b>
+
 
 ## Ultra Max Team
 
